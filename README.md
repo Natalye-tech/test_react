@@ -1,1 +1,1 @@
-# test_react
+# Create React App example with TypeScript
