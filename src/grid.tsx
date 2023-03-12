@@ -1,4 +1,4 @@
-// Тестовая таблица проверка работоспособности запроса к серверу https://jsonplaceholder.typicode.com/posts
+// Тестовая таблица проверка запроса к серверу https://jsonplaceholder.typicode.com/posts
 import * as React from 'react';
 import axios from "axios";
 import Box from '@mui/material/Box';
