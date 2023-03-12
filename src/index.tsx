@@ -7,6 +7,7 @@ import theme from './theme';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement!);
+console.log(1);
 
 root.render(
   <ThemeProvider theme={theme}>
