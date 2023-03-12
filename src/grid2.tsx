@@ -1,6 +1,4 @@
-
-// Тестовая таблица проверка работоспособности запрса к серверу /listObjectItems?workflow_id=1
-
+// Тестовая таблица проверка работоспособности запроса к серверу /listObjectItems?workflow_id=1
 import * as React from 'react';
 import axios from "axios";
 import Box from '@mui/material/Box';

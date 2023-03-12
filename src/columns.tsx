@@ -1,4 +1,4 @@
-// Колонки таблицы, запрос к /listObjectItems?workflow_id=1
+// Колонки таблицы
 import {
   GridColDef
 } from '@mui/x-data-grid';
